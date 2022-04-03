@@ -4,7 +4,8 @@
 The purpose of this analysis is to analyze weather and data for stations across the island to see how successful this surf and ice cream shop would be. By seeing how consistent the weather data is, we can conclude how successful the shop will be. 
 ---
 ## Analysis
-Analyzing the key differences between June and December (insert image)
+Analyzing the key differences between June and December 
+![Image](https://github.com/evanbruno617/surfs_up/blob/main/image.png)
 
 * One Key difference regarding the temperatures in June and December is that December has a slightly lower average temperature of 71 wheras in June the average is 75
 * The standard deviation in December is slightly higher with 3.7 where in June it is 3.2. This means that there is a bigger range in temperature with its 25th and 75th percentile having a 15 degree difference where June has only a 4 degree difference. This means that temperature is more consistent in June and varies more in December.
